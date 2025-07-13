@@ -44,7 +44,7 @@ Jest to prosta aplikacja do zarządzania listą rzeczy do spakowania przed podr�
 
 ## 🚀 Live demo
 
-🌐 *Link do wersji live (do uzupełnienia)*
+🌐 [*Link do wersji live (do uzupełnienia)*](https://awitkowsky-react-far-away.netlify.app/)
 
 ---
 
