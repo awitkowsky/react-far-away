@@ -29,7 +29,16 @@ Jest to prosta aplikacja do zarządzania listą rzeczy do spakowania przed podr�
 
 ## 📸 Podgląd
 
-📷 *Zrzut ekranu – do dodania później*
+<p align="center">
+  <img src="screenshots/ss_1_1.jpg" width="32%" />
+  <img src="screenshots/ss_1_2.jpg" width="32%" />
+  <img src="screenshots/ss_1_3.jpg" width="32%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/ss_2_1.jpg" width="42%" />
+  <img src="screenshots/ss_2_2.jpg" width="42%" />
+</p>
 
 ---
 
